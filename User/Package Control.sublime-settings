@@ -1,0 +1,27 @@
+{
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"Color Scheme - Sleeplessmind",
+		"Dark Pastel Color Scheme",
+		"GitGutter",
+		"HTML2Haml",
+		"jQuery Snippets for Coffeescript",
+		"Package Control",
+		"Rails Latest Migration",
+		"Rails Migrations List",
+		"Rails Partial",
+		"rails_go_to_spec",
+		"RailsCasts Colour Scheme",
+		"RSpec (snippets and syntax)",
+		"Ruby 1.9 Hash Converter",
+		"Ruby Coverage",
+		"Ruby Extract Method",
+		"Ruby on Rails snippets",
+		"RubyCheckOnSave",
+		"Sass",
+		"Syntax Matcher",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	]
+}
